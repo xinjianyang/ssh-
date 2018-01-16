@@ -6,4 +6,4 @@
 *.mvn
 mvnw
 mvnw.cmd
-.gitignore/
+.gitignore
